@@ -1,0 +1,94 @@
+/* Write your CSS here */
+.li-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+  text-align: center;
+  justify-content: center;
+}
+.main-con {
+  text-align: center;
+}
+.button1 {
+  background-color: #2dca73;
+  border-radius: 100%;
+  color: white;
+  height: 28px;
+  border-style: none;
+  font-weight: bold;
+  margin-top: 30px;
+}
+.paras1 {
+  color: #2dca73;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+.para {
+  color: #64748b;
+}
+.con {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.button2 {
+  font-weight: bold;
+  border-style: none;
+  margin-top: 30px;
+  background-color: white;
+  color: #0f172a;
+}
+
+.paraErrors1 {
+  color: #ff0b37;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+
+.buttonError {
+  background-color: #ff0b37;
+  border-radius: 100%;
+  color: white;
+  height: 28px;
+  border-style: none;
+  font-weight: bold;
+  margin-top: 30px;
+}
+.buttonWarning {
+  background-color: #ffb800;
+  border-radius: 100%;
+  color: white;
+  height: 28px;
+  border-style: none;
+  font-weight: bold;
+  margin-top: 30px;
+}
+.paraWarning1 {
+  color: #ffb800;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+
+.buttonInfo {
+  background-color: #0f81e0;
+  border-radius: 100%;
+  color: white;
+  height: 28px;
+  border-style: none;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+.par {
+  color: #0f81e0;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
